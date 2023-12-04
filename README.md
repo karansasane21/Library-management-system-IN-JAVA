@@ -22,9 +22,9 @@ This Java project implements a simple Library Management System. It allows users
 
 ##Compile and run the Java program:
 
-- **cd library-management-system-java
-- **javac Library.java
-- **java Library
+- cd library-management-system-java
+- javac Library.java
+- java Library
 
 
 
