@@ -15,8 +15,6 @@ This Java project implements a simple Library Management System. It allows users
 ## How to Use
 
 1. Clone the repository:
-2.  ```bash
-3. git clone https://github.com/karansasane21/Library-management-system-IN-JAVA.git
-4. 
 
-  
+   ```bash
+   git clone https://github.com/karansasane21/Library-management-system-IN-JAVA.git
